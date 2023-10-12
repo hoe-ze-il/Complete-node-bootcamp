@@ -1,0 +1,2 @@
+20231012	18:32:04	9c5180d0-b052-455e-aef5-ac896428091e	Log event emiteted!
+20231012	18:32:11	1d7393d9-4ef7-4331-9f9f-f81108a547fc	Log event emiteted!
