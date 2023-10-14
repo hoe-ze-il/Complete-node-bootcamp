@@ -1,0 +1,109 @@
+20231012	21:51:09	f08c0174-3e0f-46ed-a714-9189945a3110	/	GET
+20231012	21:51:09	903bc392-9e90-4b23-bc77-e5a6bea45de9	/css/style.css	GET
+20231012	21:51:09	910fb6f0-2af1-40bf-ba2b-e964bb4f0526	/favicon.ico	GET
+20231012	21:51:15	a3747eb1-fc5e-4eab-ac03-c16cf93f54d2	/css/style.css	GET
+20231012	21:51:53	eaa45db9-16ab-4bd9-8615-85dbf139df97	/new-page	GET
+20231012	21:51:53	74f792e3-5f00-47b3-bfe8-c1dcad95bea1	/img/img1.jpg	GET
+20231012	21:51:53	a90f9f13-fdf3-44d3-9c5f-8451716da391	/css/style.css	GET
+20231012	21:52:01	bcc9843a-423a-4eb4-bdc1-fa09bc9f72ef	/	GET
+20231012	21:52:01	97ea9b81-7c20-4417-8636-63afd63eca09	/css/style.css	GET
+20231012	21:52:27	18b6a6a0-e310-49f8-8962-43c694c21ac4	/data/data.json	GET
+20231012	22:44:42	dfb4aaa9-bb81-4c92-9d29-f7206f5bc4ca	/data/data.json	GET
+20231012	22:44:43	e359a24e-5b43-40da-a760-b11bd2397ac6	/data/data.json	GET
+20231013	14:25:19	1b51d900-b761-41c4-9383-502e6f00742c	GET	undefined	{req.url}
+20231013	14:25:19	0cf03df3-029c-4fa6-a13a-df04008c68af	GET	undefined	{req.url}
+20231013	14:27:47	9a0f330c-4a2b-420c-a0f0-100fdefb7a68	GET	undefined	/
+20231013	14:27:48	a241471a-a8d6-4bd7-a46c-1ac619bc04e2	GET	undefined	/css/style.css
+20231013	16:25:07	37244406-b2dd-48de-9a85-923a30f0a644	GET	undefined	/
+20231013	16:26:05	d35b27e6-3365-4ed0-9844-8c7bcbf81871	GET	undefined	/
+20231013	16:26:05	273bc9da-ff5c-4339-acdb-f9cb5b2c7f82	GET	undefined	/css/style.css
+20231013	16:31:10	720c49bc-4bcc-4ec0-b109-7376ae1b0f96	GET	undefined	/
+20231013	16:31:10	b533e18b-b054-4317-9aef-d5d92026837f	GET	undefined	/css/style.css
+20231013	16:36:14	f00d974d-4e2d-48a8-9e1d-ba0da5ec3f7f	GET	undefined	/page
+20231013	16:36:14	9ff1dc65-d832-42ec-9476-7b4540d58a36	GET	undefined	/css/style.css
+20231013	16:36:18	fca35393-13f5-4fa3-8794-1a05ce68bc62	GET	undefined	/
+20231013	16:36:18	04a34980-e30d-40af-befa-b815ac0a4e64	GET	undefined	/css/style.css
+20231013	16:38:34	f2b60240-b65b-40cb-8c93-84f8d99059ad	GET	undefined	/page
+20231013	16:38:34	c60430e0-bfd1-4ad3-add5-b94a33af0c61	GET	undefined	/css/style.css
+20231013	16:38:39	7a7f1b16-0108-4d25-aa16-653f206aa22e	GET	undefined	/dave
+20231013	16:38:39	c029c877-e56d-441c-ae26-8459a40d598a	GET	undefined	/css/style.css
+20231013	16:39:01	af6ed1f5-4bc3-4ada-a8df-0c0024b2d62b	GET	undefined	/
+20231013	16:39:01	1f27774e-dff9-42c2-ae2e-eb9292d6a8eb	GET	undefined	/css/style.css
+20231013	21:28:27	bd1699b8-37d8-4f31-adbf-f7cfe405cd27	GET	undefined	/
+20231013	21:28:27	2d8fd635-03f4-4f95-86ec-2fa7f80e0701	GET	undefined	/css/style.css
+20231013	21:28:27	ba149df1-16bd-4c5b-bc43-1cd825128e20	GET	undefined	/favicon.ico
+20231013	21:29:04	e4bdd72d-0223-4930-983b-0187228f7726	GET	undefined	/subdir
+20231013	21:29:04	0aea4bc7-f3f3-4ef3-8907-d1279995759a	GET	undefined	/css/style.css
+20231013	21:29:13	8e6b14d6-4fae-4328-a47f-b01abbe662cd	GET	undefined	/subdir/test
+20231013	21:29:13	3316278c-3911-4aff-a655-406193a0e863	GET	undefined	/subdir/css/style.css
+20231013	21:29:43	650314b4-4f0b-458d-b6eb-9b705d4151d1	GET	undefined	/subdir/test.html
+20231013	21:29:43	adb83366-d232-4bc6-92d9-aaad7ea150ae	GET	undefined	/subdir/css/style.css
+20231013	21:29:52	4535ec41-2a57-4bba-9e77-07e4566d34bb	GET	undefined	/subdir/test.html
+20231013	21:29:52	0a823967-4172-4f94-83a5-d4a3d0af8567	GET	undefined	/subdir/css/style.css
+20231013	21:34:31	8e8cccca-f7bb-4650-afee-263aa08c6115	GET	undefined	/subdir/test.html
+20231013	21:34:31	2dd4c61d-b70d-4f8b-8211-bbba9d9f5458	GET	undefined	/subdir/css/style.css
+20231013	21:34:36	e90bf8ed-2f5d-4d19-9190-9d46efdad24a	GET	undefined	/subdir
+20231013	21:34:36	a2eedfe4-9e09-4c66-94e5-5fb89a1b75f8	GET	undefined	/css/style.css
+20231013	21:36:54	5f76936f-877d-4744-9c03-c84494510b8e	GET	undefined	/subdir
+20231013	21:36:54	a612e3b8-ea32-4f29-b71c-fbb533b4a4bd	GET	undefined	/css/style.css
+20231013	21:36:55	a32bc852-445e-4f3b-927d-81b3d497bbd5	GET	undefined	/subdir
+20231013	21:36:55	78a966ae-6f1e-4a22-a6c1-dd396e58f670	GET	undefined	/css/style.css
+20231013	21:37:07	1935501b-a4ab-47da-a5c9-49d875877bc7	GET	undefined	/subdir
+20231013	21:37:07	3eaebc3c-86b3-4076-9e4a-74bd701d8bea	GET	undefined	/css/style.css
+20231013	21:37:11	cae40638-8eab-4779-832c-2ae54136df1d	GET	undefined	/
+20231013	21:37:12	49e86060-f789-4f52-9370-5382c5189a72	GET	undefined	/css/style.css
+20231013	21:38:37	741bac24-480e-4bde-8457-c517aaade2a5	GET	undefined	/subdir
+20231013	21:38:37	6ab9efc2-c930-4e19-9183-c086f4046cb9	GET	undefined	/css/style.css
+20231014	00:43:39	308f2dcc-7bb3-4f56-b82a-fb540d39c5ad	GET	undefined	/css/style.css
+20231014	00:44:31	2575a812-f74a-4663-9cc9-598011dc43bc	GET	undefined	/subdir
+20231014	00:44:31	a1f9f5aa-df5b-4f7f-a01e-1e51556c800f	GET	undefined	/css/style.css
+20231014	00:55:34	e747e2b6-edd6-4da7-a138-13cb57876d97	GET	undefined	/subdir
+20231014	00:55:52	1f736413-bdc9-4025-832a-a079744c6bff	GET	undefined	/subdir/test
+20231014	10:50:11	d0e43040-05f8-41c5-a127-5744f0123675	GET	undefined	/
+20231014	10:50:11	92e0252b-af0b-4fe3-bb16-e2fde293d132	GET	undefined	/css/style.css
+20231014	10:50:11	be2f969d-6ae4-48e3-b575-c1ed0b3afc82	GET	undefined	/favicon.ico
+20231014	10:51:43	16c24025-4bab-4099-8f70-9266b2056985	GET	undefined	/subdir/dave
+20231014	10:51:43	576b76ab-2ba7-4007-897b-4ae3fc157e6c	GET	undefined	/subdir/css/style.css
+20231014	10:56:11	f30a963b-dd29-47f0-a262-0697e30e29cc	GET	undefined	/root
+20231014	10:56:11	175138a5-922b-4e70-bf02-9c935952993c	GET	undefined	/css/style.css
+20231014	10:56:23	cf993f29-8d53-469e-b665-2f3ccfc9e4b8	GET	undefined	/
+20231014	10:56:23	59f0ba0e-f17b-4a65-a80e-e9ae598aeb79	GET	undefined	/css/style.css
+20231014	10:56:28	0daa170f-a248-49dc-b7dd-8fd678601ff9	GET	undefined	/new-page
+20231014	10:56:28	4db1f195-e41e-411e-bf0e-0656cc09b162	GET	undefined	/img/img1.jpg
+20231014	10:56:28	9f896501-ae12-4963-908b-ba321d7e8350	GET	undefined	/css/style.css
+20231014	11:08:34	c04010af-a545-4a7b-9fb8-06fca9cf5767	GET	undefined	/
+20231014	11:16:02	f900d9b9-b726-40db-a6e3-9031bc5a4211	GET	undefined	/employees
+20231014	11:16:11	ecd37669-1a7d-4937-99c6-90e20985f2c3	POST	undefined	/employees
+20231014	11:16:15	7e0a7295-8a64-489d-ae4a-961be03776c2	GET	undefined	/employees
+20231014	11:17:48	35c611ac-e2e0-49bc-a5e2-2dc1109ed234	POST	undefined	/employees
+20231014	11:17:56	b631d755-924d-496c-ab07-ec6f26d04b74	POST	undefined	/employees
+20231014	11:18:37	065f796e-fdf9-4baa-b337-1ab0c48e9621	GET	undefined	/
+20231014	11:18:42	c79f6154-6264-4933-8f41-aea4cb610740	GET	undefined	/employees
+20231014	11:19:51	0bd28dfe-c535-4ca9-80bf-e69b02721242	DELETE	undefined	/employees
+20231014	11:20:00	26639cb0-8e16-4566-8dd2-04dd1adfa5f9	DELETE	undefined	/employees/2
+20231014	11:20:01	cf5c539f-4da8-4de3-bfa0-935cf777fbfd	DELETE	undefined	/employees/2
+20231014	11:20:01	6e2f26d2-6ecd-4008-87a0-8269e4e0ee4a	DELETE	undefined	/employees/2
+20231014	11:20:03	07469b94-1415-4304-8e6d-50c4adcc1afb	DELETE	undefined	/employees
+20231014	15:15:27	2a00ffe4-3a40-4264-a3fa-74753366c5b2	GET	undefined	/employees
+20231014	15:16:02	08e106d9-314a-43fe-a09b-33bfc6130fc5	GET	undefined	/employees
+20231014	15:17:11	a4fd7f93-cfa6-4590-b285-5085509e0b25	GET	undefined	/
+20231014	15:17:19	cf847a87-1224-4000-ab52-07b449d565bc	GET	undefined	/employees
+20231014	15:17:21	02805469-cd4f-4efe-862f-d04e1f36cc3e	GET	undefined	/employee
+20231014	15:17:23	0c6e7c5b-3117-4a08-8556-3dff8b9c9f99	GET	undefined	/employe
+20231014	15:17:24	0aacef29-d184-430d-83b3-4276690b6b2a	GET	undefined	/employes
+20231014	15:17:26	71f5f4aa-177e-4d39-9faf-127a37f69fbc	GET	undefined	/employees
+20231014	15:17:39	1fd338f8-04e5-459b-8bd7-4d6efc4c2ecf	DELETE	undefined	/employees
+20231014	15:17:56	474a61fc-354b-425c-9a74-b52cf7072a2c	GET	undefined	/employees
+20231014	15:19:32	c38dc5e5-babf-472b-82fa-97637425a42f	GET	undefined	/employees
+20231014	15:19:32	8e597b5c-ef74-4743-9644-7dac7bbc4506	GET	undefined	/employees
+20231014	15:23:45	bd5c67df-61ab-47a6-9464-4c349e82b308	GET	undefined	/employees
+20231014	15:25:43	6635e61a-eb94-4b64-bf8d-77692133a1e1	GET	undefined	/employees
+20231014	15:27:00	4d568b80-6677-4f31-acdd-a16235076fd6	POST	undefined	/employees
+20231014	15:27:59	f369ae6c-aa5c-4594-90b3-37da8e5a09b6	PUT	undefined	/employees
+20231014	15:29:03	08db4aa6-9d24-44eb-947e-cc059c951264	DELETE	undefined	/employees
+20231014	15:29:09	de479ac6-6f32-41b0-8c14-e2628125861c	GET	undefined	/employees
+20231014	15:29:12	b03c81b6-04fe-4c03-98ab-f2fbc70c2d62	POST	undefined	/employees
+20231014	15:29:16	bf739f9a-fcce-4636-9278-76f9f54ef129	PUT	undefined	/employees
+20231014	15:29:19	60b34ab0-c0df-4e9c-818a-5bdad93895d6	DELETE	undefined	/employees
+20231014	15:30:05	0dcd013d-e884-4039-9b77-bab8c5ab3b13	GET	undefined	/employees
+20231014	15:30:31	fdb4f122-ef16-4bf8-b9b5-c7c4b44988e2	GET	undefined	/employees/1
