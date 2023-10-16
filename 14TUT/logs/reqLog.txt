@@ -1,0 +1,6 @@
+20231015	20:44:03	e5204651-01d2-41ac-a466-aabbf73951ec	GET	undefined	/employees
+20231015	20:44:47	a77276ca-b8a7-4b67-be74-7fe630905282	POST	undefined	/auth
+20231016	22:13:17	66db93ed-ca6b-4a45-bfe8-00773622d252	GET	undefined	/register
+20231016	22:13:45	2ba7a118-a279-4c93-a9d9-0c10273e49ea	GET	undefined	/register
+20231016	22:13:57	6fe80e29-d017-4ecf-b407-3a7a17be1f9d	POST	undefined	/register
+20231016	22:15:28	bc7a9f08-6e1b-4cf0-a2a7-9459cbb0ad14	POST	undefined	/register
